@@ -1,0 +1,36 @@
+{
+  "name": "fullstack-expressjs-app-expense-tracking",
+  "version": "1.0.0",
+  "description": "A simple Express.js application with login, registration, and dashboard.",
+  "main": "server.js",
+  "scripts": {
+    "test": "start",
+    "start": "node server.js",
+    "build": "echo 'No build step required for Express.js app'",
+    "heroku-postbuild": "echo 'No postbuild step for Heroku'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alunyapatrick2022/fullstack-expressjs-app-expense-tracking.git"
+  },
+  "keywords": [
+    "Full",
+    "Stack",
+    "development",
+    "backends",
+    "frontends"
+  ],
+  "author": "Patrick alunya aka alunyapatrick2022",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alunyapatrick2022/fullstack-expressjs-app-expense-tracking/issues"
+  },
+  "homepage": "https://github.com/alunyapatrick2022/fullstack-expressjs-app-expense-tracking#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cookie-parser": "^1.4.6",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "querystring": "^0.2.1"
+  }
+}
