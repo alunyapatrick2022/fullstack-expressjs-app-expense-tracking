@@ -28,10 +28,10 @@
   },
   "homepage": "https://github.com/alunyapatrick2022/fullstack-expressjs-app-expense-tracking#readme",
   "dependencies": {
-    "body-parser": "^1.20.2",
+    "body-parser": "^1.20.3",
     "cookie-parser": "^1.4.6",
     "ejs": "^3.1.10",
-    "express": "^4.19.2",
+    "express": "^4.21.0",
     "querystring": "^0.2.1"
   }
 }
